@@ -1,0 +1,5 @@
+image:
+  file: DOCKERFILE
+
+tasks:
+  - command: ./start.sh
