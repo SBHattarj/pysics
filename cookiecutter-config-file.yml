@@ -1,0 +1,13 @@
+# This file contains values from Cookiecutter
+
+default_context:
+  project_name: "pysics"
+  project_description: "pysics is a phphysics lybrary."
+  organization: "pysics"
+  license: "MIT"
+  minimal_python_version: 3.9
+  github_name: "SBHattarj"
+  email: "subhambhsubhambh@gmail.com"
+  version: "0.0.0"
+  line_length: "60"
+  create_example_template: "none"
